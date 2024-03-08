@@ -14,7 +14,7 @@
         "validate": "tsc --noEmit"
     },
     "devDependencies": {
-        "@types/node": "20.11.24",
+        "@types/node": "20.11.25",
         "adm-zip": "^0.5.10",
         "esbuild": "^0.20.1",
         "typescript": "5.3.3"
