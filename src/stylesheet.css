@@ -1,0 +1,18 @@
+.ft-zone-actor {
+    border: 2px;
+    border-color: rgba(255, 255, 255, 100);
+}
+
+.ft-editor-zone {
+    border: 0px;
+}
+
+.ft-editor-zone:hover {
+    border: 2px;
+    border-color: rgba(80, 80, 80, 50);
+}
+
+.ft-editor-zone:focus {
+    border: 2px;
+    border-color: rgba(255, 255, 255, 100);
+}

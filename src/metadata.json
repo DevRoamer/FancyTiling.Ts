@@ -1,0 +1,12 @@
+{
+    "uuid": "ft@devroamer.zen",
+    "settings-schema": "org.gnome.shell.extensions.ft",
+    "version": "0.0.1",
+    "name": "Fancy Tiling",
+    "description": "Window tiling for GNOME",
+    "shell-version": [
+        "45",
+        "46"
+    ],
+    "url": "https://github.com/DevRoamer/fancy-tiling"
+}

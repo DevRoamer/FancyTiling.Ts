@@ -1,0 +1,13 @@
+**/dist/
+**/build/
+**/node_modules/
+**/.idea
+**/.vscode
+
+*.zip
+**/*.pot
+LINGUAS
+
+yarn.lock
+package-lock.json
+gschemas.compiled
