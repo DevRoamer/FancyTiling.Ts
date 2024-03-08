@@ -1,4 +1,6 @@
-# <img src="./assets/fancy-tiling.svg" width="32" height="32"> Fancy Tiling
+# ARCHIVED - CURRENTLY WORKING ON PURE JAVASCRIPT VERSION
+
+## Fancy Tiling
 ![GNOME](https://img.shields.io/badge/45-4A86CF?style=for-the-badge&logo=gnome&logoColor=white&label=GNOME) ![TypeScript](https://img.shields.io/badge/TypeScript-2F74C0.svg?style=for-the-badge&logo=typescript&logoColor=0B3D8D) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 [Fancy Zones](https://learn.microsoft.com/en-us/windows/powertoys/fancyzones) clone for GNOME 45.
